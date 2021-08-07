@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 const String url = 'https://owlbot.info/api/v4/dictionary/';
-const String token = '10967fb5fb548b5f0e6ac1a53d643573810324ad';
+const String token = 'ENTER THE KEY';
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key? key}) : super(key: key);
